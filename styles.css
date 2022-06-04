@@ -1,0 +1,65 @@
+ h1{
+    color:blue;
+    background-color:skyblue;
+font-size:50px;
+text-align: center;
+font-weight: bold;
+text-transform: uppercase;
+position: relative;
+width: 100%;
+border: 8px solid white;
+position: fixed;
+padding: 6px 12px;
+display:inline;
+border-radius:36px;
+margin-block:1%;
+}
+.i1 img{
+    max-width: 60%;
+    max-height: 50%;
+}
+.i2 img{
+max-width: 50%;
+}
+.a1 {
+    color:black;
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 30px;
+    font-family:Verdana;
+}
+.a4 {
+    color:black;
+    background-color: rgb(78, 174, 174);
+    font-weight: bold;
+    font-size: 30px;
+    font-family:Verdana;
+}
+.a5 {
+    color:black;
+    background-color: rgb(37, 156, 156);
+    font-weight: bold;
+    font-size: 30px;
+    font-family:arial;
+}
+.a2 {
+ font-family:arial ;
+}
+.a3 {
+    font-family: arial;
+}
+div {
+    font-family: arial;
+}
+.ash {
+font-family:arial;
+}
+.h1 {
+    text-align: center;
+}
+.h2 {
+    text-align: center;
+}
+.h3 {
+    text-align: center;
+}
